@@ -1,16 +1,15 @@
 {
   "files": {
-    "main.css": "/api-form-beeceptor/static/css/main.073c9b0a.css",
-    "main.js": "/api-form-beeceptor/static/js/main.92edd724.js",
+    "main.css": "/api-form-beeceptor/static/css/main.e7720ab7.css",
+    "main.js": "/api-form-beeceptor/static/js/main.db3bf1a0.js",
     "static/js/787.c71f603e.chunk.js": "/api-form-beeceptor/static/js/787.c71f603e.chunk.js",
-    "static/media/logo.svg": "/api-form-beeceptor/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/api-form-beeceptor/index.html",
-    "main.073c9b0a.css.map": "/api-form-beeceptor/static/css/main.073c9b0a.css.map",
-    "main.92edd724.js.map": "/api-form-beeceptor/static/js/main.92edd724.js.map",
+    "main.e7720ab7.css.map": "/api-form-beeceptor/static/css/main.e7720ab7.css.map",
+    "main.db3bf1a0.js.map": "/api-form-beeceptor/static/js/main.db3bf1a0.js.map",
     "787.c71f603e.chunk.js.map": "/api-form-beeceptor/static/js/787.c71f603e.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.92edd724.js"
+    "static/css/main.e7720ab7.css",
+    "static/js/main.db3bf1a0.js"
   ]
 }
